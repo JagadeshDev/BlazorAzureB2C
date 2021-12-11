@@ -2,7 +2,7 @@
 
 ## Technologies Used
 
-1. Blazor WASM, 
+1. Blazor, 
 1. Azure B2C, 
 1. .NET 6.0
 
@@ -14,6 +14,9 @@
 Azure Active Directory B2C provides business-to-customer identity as a service. Your customers use their preferred social, enterprise, or local account identities to get single sign-on access to your applications and APIs.
 
 ![Authentication and Authorization](./Documentation/Images/azureadb2c-overview.png)
+
+Azure B2c flow
+![Authentication and Authorization](./Documentation/Images/B2C_Flow.png)
 
 ## Set-Up An Azure Active Directory B2C Tenant
 Creating an **Azure Active Directory B2C Tenant** requires an Azure Account.
